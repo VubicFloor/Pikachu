@@ -1,0 +1,4 @@
+circle->star->square?
+if no star, then just circle->square?
+
+circle->all stars->square
